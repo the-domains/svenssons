@@ -1,3 +1,7 @@
+name: Svenssons
+favicon: null
+layout_spectrum: 0.5859291
+typography_spectrum: 0.6772288
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6772288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.537594
-  lightness: 0.9350161
   brandColors:
     - '#342B22'
     - '#88A8D9'
     - '#FAEAD1'
     - '#525252'
     - '#0C0C0C'
-  rhythmicContrast: 0.1015037
-layout_spectrum: 0.5859291
-name: Svenssons
+  brandStrength: 0.4375
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.5
+purpose: []
